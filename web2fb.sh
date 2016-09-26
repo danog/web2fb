@@ -21,9 +21,9 @@
 
 echo "web2fb video reuploader script   Copyright (C) 2016  Daniil Gentili.
 This program comes with ABSOLUTELY NO WARRANTY; for details see 
-https://github.com/danog/web2fb-reuploader/blob/master/LICENSE.
+https://github.com/danog/web2fb/blob/master/LICENSE.
 This is free software, and you are welcome to redistribute it
-under certain conditions: see https://github.com/danog/web2fb-reuploader/blob/master/LICENSE.
+under certain conditions: see https://github.com/danog/web2fb/blob/master/LICENSE.
 "
 
 
