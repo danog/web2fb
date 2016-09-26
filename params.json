@@ -1,0 +1,6 @@
+{
+  "name": "Web2fb",
+  "tagline": "bash script to download videos from youtube/dailymotion/etc and upload them on a facebook page",
+  "body": "# web2fb video reuploader script\r\n\r\nCreated by Daniil Gentili (https://daniil.it)\r\n\r\nThis bash script can be used to download videos from youtube/dailymotion/etc and upload them on a facebook page, automagically.  \r\n\r\nThis script will also copy the video's thumbnail, title and description.\r\n\r\n## Usage:\r\n\r\nTo use it, create a facebook app @ https://developers.facebook.com/apps/, allow access to your page, insert the access token and the page's id in the script and run it with:\r\n\r\n```\r\n./web2fb.sh video_url1 video_url2\r\n```\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
